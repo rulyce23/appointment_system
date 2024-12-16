@@ -1,0 +1,8 @@
+cara pakai : 
+composer install dulu vendor laravelnya
+composer install cors laravel,sanctum
+
+backend php artisan --port = 8001
+frontend npm start
+
+password ada yang memakai user123!,admin123!,admin12345,dsbnya
